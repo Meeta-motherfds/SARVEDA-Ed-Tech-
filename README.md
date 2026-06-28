@@ -12,13 +12,12 @@ This is project done by **Meenakshi Sain**i as the final project under Microsoft
 
 **Industry Name:**   **Ed-Tech**
 
-**Project GitHub Link:**   **https://github.com/Meeta-CS/SARVEDA**
+**Project GitHub Link:**   **https://github.com/Meeta-CS/SARVEDA** (This is my another account in GitHub)
 
 **Project Azure URL:**    **https://dbfile.azurewebsites.net/**
-## Demo video link: https://youtu.be/0_XdXENtttA 
+**Demo video link: https://youtu.be/0_XdXENtttA**
 
-
-## Project Blog:(I achieved 15th position in MS Azure Blogathon): https://azureblogathon.com/2022/images/doc/21.%20Javascript%20-%20WebApp%20-%20Meenakshi%20Saini.pdf
+**Project Blog:(I achieved 15th position in MS Azure Blogathon): https://azureblogathon.com/2022/images/doc/21.%20Javascript%20-%20WebApp%20-%20Meenakshi%20Saini.pdf**
 
 **Project DEMO Video link:**   **https://youtu.be/0_XdXENtttA**
 
