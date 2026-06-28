@@ -4,16 +4,17 @@ The aim of this project is develop a system which can perform a major role in th
 
 This is project done by **Meenakshi Sain**i as the final project under Microsoft Future Talent Ready Internship Program 2024.
 
+**Industry Name:**   **Ed-Tech**
+
 **Name of the Project:**  **Sarveda**
 
 **LOGO of the Project:**
 
 ![favicon](https://github.com/Meeta-CS/SARVEDA/assets/172569993/24805f98-50ae-4988-bf8e-38dc12d80bc9)
 
-**Industry Name:**   **Ed-Tech**
 
 
-#### PROJECT DETAILS:
+## PROJECT DETAILS:
 
 **Project GitHub Link(Previous GitHub account):**   https://github.com/Meeta-CS/SARVEDA
 
