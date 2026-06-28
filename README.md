@@ -12,24 +12,29 @@ This is project done by **Meenakshi Sain**i as the final project under Microsoft
 
 **Industry Name:**   **Ed-Tech**
 
-**Project GitHub Link:**   **https://github.com/Meeta-CS/SARVEDA** (This is my another account in GitHub)
 
-**Project Azure URL:**    **https://dbfile.azurewebsites.net/**
-**Demo video link: https://youtu.be/0_XdXENtttA**
+#### PROJECT DETAILS:
 
-**Project Blog:(I achieved 15th position in MS Azure Blogathon): https://azureblogathon.com/2022/images/doc/21.%20Javascript%20-%20WebApp%20-%20Meenakshi%20Saini.pdf**
+**Project GitHub Link(Previous GitHub account):**   https://github.com/Meeta-CS/SARVEDA
 
-**Project DEMO Video link:**   **https://youtu.be/0_XdXENtttA**
+**Project Azure URL:**    https://dbfile.azurewebsites.net/
 
-**Project Blog(I achieved 15th position in MS Azure Blogathon):**  **https://azureblogathon.com/2022/images/doc/21.%20Javascript%20-%20WebApp%20-%20Meenakshi%20Saini.pdf**
+**Demo video link:** https://youtu.be/0_XdXENtttA
 
-**Project Blog:**   **https://dev.to/meetamotherfds/education-technology-ece**
+**Project Blog:(I achieved 15th position in MS Azure Blogathon):**
+https://azureblogathon.com/2022/images/doc/21.%20Javascript%20-%20WebApp%20-%20Meenakshi%20Saini.pdf
 
-**MyPrevious Github Acoount:**  https://github.com/Meeta-motherfds 
+**Project DEMO Video link:**   https://youtu.be/0_XdXENtttA
+
+**Project Blog(I achieved 15th position in MS Azure Blogathon):**  https://azureblogathon.com/2022/images/doc/21.%20Javascript%20-%20WebApp%20-%20Meenakshi%20Saini.pdf
+
+**Project Blog:**   https://dev.to/meetamotherfds/education-technology-ece
+
+**MyCurrent Github Acoount:**  https://github.com/Meeta-motherfds 
 
 I crerated this website last year by using MS Azure that time I wasc unable to submit my project but this time, I submitted my SARVEDA project based on educational technology.
 
-**Problem Statement/Opportunity:**
+## **Problem Statement/Opportunity:**
 
 The major problem is people have no work and they are unemployed. So this platform for learners with an opportunity to learn the in-demand technology skills and work, courses for free so they will read and learn them. It solves the problem of unemployment because after learning the skills they open their own work and do something for them and others.
 
@@ -39,7 +44,7 @@ The problem which we are forgetting is divided into 4 categories:
 **High Level:**  CAT, XAT, JEE, PRE MAINS this plaform can hellp students in preparing in these minimalistic price range.
 **Competative Exam:**  This wil give a wider range as well as opportunity for the Tier2, Tier3 cities, so the students from these areas will be getting a proper opportunity to compete without finding heavy on the pocket.
 
-**Project Description:**
+## **Project Description:**
 
 The two major factors in which we are working:
 
@@ -49,7 +54,7 @@ The two major factors in which we are working:
 
 I can take this idea from FutureReadyTalent Internship who gaves the opportunity to learn and gain many skills through this program. Its give me a platform to explore new technologies. So, I am building a platform or a website where every student can learn any skill like technical field, musicians, about agriculture and more. It has a home page, about us page, course page, learning path, and contact us page.
 
-**Deployment steps followed :**
+## **Deployment steps followed :**
 
 1.Create a remote pepository on Github.
 
@@ -64,11 +69,11 @@ I can take this idea from FutureReadyTalent Internship who gaves the opportunity
 6.For Github Actions to finish Deployment final Url : **https://dbfile.azurewebsites.net/**
 
 
-**Primary Azure Technology:**   1.App Services
+## **Primary Azure Technology:**   1.App Services
                                 2. Web App Service & 
                                 3. Azure Static Web Apps
 
-**Project Screenshots:**
+## **Project Screenshots:**
 
 ![image](https://github.com/Meeta-CS/SARVEDA/assets/172569993/0eed1bbf-a789-4780-8192-1518651d1224)
 ![image](https://github.com/Meeta-CS/SARVEDA/assets/172569993/b6023721-4a3c-4c5b-975a-ddc1c10ac741)
